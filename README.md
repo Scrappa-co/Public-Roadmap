@@ -8,7 +8,7 @@ Gather information: To help us diagnose the issue faster, please have the follow
 How to report an issue:
 
 Click "Open a new issue."
-Write a clear and concise title: Describe the issue you're facing. For example, "Google Maps API: Addresses not extracted."
+Write a clear and concise title: Describe the issue you're facing. For example, "Google Search API: Addresses not extracted."
 Provide a detailed description: Explain the problem you're encountering in as much detail as possible.
 Attach visual aids:
 Screenshots: Include screenshots with red rectangles highlighting the areas of concern.
