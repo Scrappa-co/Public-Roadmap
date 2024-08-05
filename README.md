@@ -1,11 +1,13 @@
 # Issues and Features RoadMap
 This issue repository serves as our public roadmap. Please create a new issue to suggest features, new APIs, or report problems. 
 
-Check for Existing Issues
+## Issues (Bug reporting)
+Check for Existing Issues__
 
-Search our issue tracker to see if your problem has already been reported.
+**Search our issue tracker to see if your problem has already been reported.**
 If found, leave a comment and upvote to show your support.
-Create a New Issue
+
+**Create a New Issue**
 If your issue is new, please provide the following information:
 
 Clear and concise title: Briefly describe the problem (for example: "Search Request - The search list is not fully completed").
@@ -18,12 +20,14 @@ Submit and Follow Up
 Once you've submitted the issue, our team will review it promptly.
 Feel free to add comments or updates as needed.
 We'll provide status updates and close the issue once resolved.
-Requesting a New Feature
-Check for Existing Requests
+
+## Requesting a New Feature
+**Check for Existing Requests**
 
 Search our issue tracker for similar feature requests.
 If found, leave a comment and upvote to show your interest.
-Create a New Feature Request
+
+**Create a New Feature Request**
 If your desired feature is new, please include the following:
 
 Clear and concise title: Briefly describe the requested feature (for example: "Extend data sources for the search requests").
@@ -35,3 +39,4 @@ Submit and Follow Up
 Once you've submitted the request, our team will review it.
 Feel free to add comments or updates as needed.
 We'll provide feedback on the feasibility and potential timeline for implementation.
+
