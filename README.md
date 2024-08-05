@@ -2,10 +2,10 @@
 This issue repository serves as our public roadmap. Please create a new issue to suggest features, new APIs, or report problems. 
 
 ## Issues (Bug reporting)
-Check for Existing Issues__
+Check for Existing Issues
 
 **Search our issue tracker to see if your problem has already been reported.**
-If found, leave a comment and upvote to show your support.
++ If found, leave a comment and upvote to show your support.
 
 **Create a New Issue**
 If your issue is new, please provide the following information:
@@ -24,8 +24,8 @@ We'll provide status updates and close the issue once resolved.
 ## Requesting a New Feature
 **Check for Existing Requests**
 
-Search our issue tracker for similar feature requests.
-If found, leave a comment and upvote to show your interest.
+**Search our issue tracker for similar feature requests.**
++ If found, leave a comment and upvote to show your interest.
 
 **Create a New Feature Request**
 If your desired feature is new, please include the following:
